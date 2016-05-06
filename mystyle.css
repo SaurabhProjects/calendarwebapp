@@ -1,0 +1,19 @@
+<style>
+	    .today{
+			background-color: #00ff00;
+		}
+		.event{
+			background-color: #FF8080;
+		}
+		a {
+     		text-decoration: none ;
+     		color:black;
+		  }
+		a:hover{
+    		color:red;
+    		text-decoration:none;
+    		cursor:pointer;
+   			}
+   		.t1 {width:25%;height:50%;}
+		.b  { width: 20px;height:65px;}
+</style>
